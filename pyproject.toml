@@ -1,0 +1,11 @@
+[project]
+name = "sound-dock"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.2.6",
+    "sounddevice>=0.5.2",
+    "soundfile>=0.13.1",
+]
